@@ -1,0 +1,15 @@
+{
+  "n_total": 20575,
+  "n_entrenamiento": 12345,
+  "n_validacion": 4115,
+  "n_prueba": 4115,
+  "C": 0.3,
+  "umbral_decision": -1.2,
+  "palabras": 2933,
+  "f1_macro_validacion": 0.7855,
+  "exactitud": 0.976913730255164,
+  "exactitud_balanceada": 0.7472285210380448,
+  "f1_positivo": 0.9881086493929152,
+  "f1_negativo": 0.6058091286307054,
+  "f1_macro": 0.7969588890118102
+}

@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+plotly>=5.18
+stopwordsiso>=0.6
+snowballstemmer>=2.2
+vaderSentiment>=3.3
+# opcional (embeddings locales): sentence-transformers
+# desarrollo: pytest
