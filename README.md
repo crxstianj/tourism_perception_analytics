@@ -1,4 +1,4 @@
-# Imagen del destino: proyectada (DMO) vs. percibida
+# Dashboard de imagen del destino: proyectada vs. percibida
 
 **Autor:** Cristian Jesus Silva Medel
 
