@@ -1,7 +1,9 @@
 # Imagen del destino: proyectada (DMO) vs. percibida
 
 **Autor:** Cristian Jesus Silva Medel
+
 **Correo:** crxstianj@gmail.com
+
 **Institución:** Universidad de Guanajuato
 
 Herramienta que compara la **imagen proyectada** por una DMO con la **imagen percibida** en otras fuentes
