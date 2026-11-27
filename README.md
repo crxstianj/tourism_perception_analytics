@@ -4,8 +4,7 @@
 
 ## Correo: crxstianj@gmail.com
 
-## Institución:
-Universidad de Guanajuato
+## Institución: Universidad de Guanajuato
 
 Herramienta que compara la **imagen proyectada** por una DMO con la **imagen percibida** en otras fuentes
 (reseñas, redes sociales, foros) a partir de un CSV. Genera un tablero interactivo `tablero.html` y tablas de resultados.
