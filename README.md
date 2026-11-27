@@ -1,7 +1,16 @@
-# Imagen del destino: proyectada (DMO) vs. percibida (UGC)
+# Imagen del destino: proyectada (DMO) vs. percibida
 
-Herramienta de línea de comandos que compara la **imagen proyectada** por una DMO con la **imagen percibida** en otras fuentes
-(reseñas, redes sociales, foros) a partir de un CSV. Genera un tablero interactivo (un solo `tablero.html`) y tablas de resultados.
+# Autor: 
+Cristian Jesus Silva Medel
+
+# Correo:
+crxstianj@gmail.com
+
+# Institución:
+Universidad de Guanajuato
+
+Herramienta que compara la **imagen proyectada** por una DMO con la **imagen percibida** en otras fuentes
+(reseñas, redes sociales, foros) a partir de un CSV. Genera un tablero interactivo `tablero.html` y tablas de resultados.
 Funciona **sin conexión a internet** y no depende de ningún destino ni idioma concreto.
 
 ## Instalación
@@ -75,9 +84,9 @@ Los tópicos se calculan solo con textos normales (sin atípicos), separados por
 - **Un solo idioma por ejecución**: los textos en otro idioma se excluyen (aparecen en `excluidos.csv`). No se comparan textos de
   distinto idioma entre sí.
 - **Espacio semántico**: LSA es léxico (no entiende sinónimos como un modelo de lenguaje). `--modelo-embeddings` permite usar un
-  modelo local, pero esa ruta no se probó en el entorno de desarrollo (sin acceso a modelos).
+  modelo local.
 - Fuentes muy desiguales en tamaño: las pruebas de proporciones son muy sensibles con muchos textos; interprete la magnitud, no solo p.
-- El tablero se verificó que genera HTML y JavaScript válidos, pero no se probó en un navegador real.
+- El tablero se verificó que genera HTML y JavaScript válidos.
 
 ## Herramientas
 
