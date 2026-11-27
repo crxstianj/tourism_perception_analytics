@@ -1,10 +1,8 @@
 # Imagen del destino: proyectada (DMO) vs. percibida
 
-<h2>Autor:</h2> Cristian Jesus Silva Medel
-
-<h2>Correo:</h2> crxstianj@gmail.com
-
-<h2>Institución:</h2> Universidad de Guanajuato
+**Autor:** Cristian Jesus Silva Medel
+**Correo:** crxstianj@gmail.com
+**Institución:** Universidad de Guanajuato
 
 Herramienta que compara la **imagen proyectada** por una DMO con la **imagen percibida** en otras fuentes
 (reseñas, redes sociales, foros) a partir de un CSV. Genera un tablero interactivo `tablero.html` y tablas de resultados.
